@@ -1,4 +1,4 @@
-package org.jjang.day02.practice;
+package org.jjang.day02.practice.operator;
 
 import java.util.Scanner;
 
